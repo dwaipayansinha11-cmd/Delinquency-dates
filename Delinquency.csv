@@ -1,0 +1,21 @@
+﻿Bill Type,Allocation mode,Invoice status,Product Name,Grace Period,Reminder 1,Reminder 2,Cancel notice,Cancellation request
+List Bill,Individual payment allocation,Unpaid,STD,2,-5,5,20,55
+List Bill,Individual payment allocation,Unpaid,LTD,20,-5,5,20,55
+List Bill,Individual payment allocation,Unpaid,ACC,20,-5,5,20,55
+List Bill,Individual payment allocation,Unpaid,CI,25,-8,8,25,50
+List Bill,Individual payment allocation,Partially Paid,STD,30,-10,10,30,55
+List Bill,Individual payment allocation,Partially Paid,LTD,30,-10,10,30,55
+List Bill,Individual payment allocation,Partially Paid,ACC,30,-10,10,30,55
+List Bill,Individual payment allocation,Partially Paid,CI,25,-8,8,25,50
+List Bill,Group,NA,STD,30,-10,10,30,55
+List Bill,Group,NA,LTD,30,-5,5,15,45
+List Bill,Group,NA,ACC,30,-7,7,20,50
+List Bill,Group,NA,CI,25,-8,8,25,50
+SelfBIll,NA,NA,STD,30,-10,10,30,55
+SelfBIll,NA,NA,LTD,30,-10,10,30,55
+SelfBIll,NA,NA,ACC,30,-10,10,30,55
+SelfBIll,NA,NA,CI,25,-8,8,25,50
+Individual direct,NA,NA,STD,15,-5,5,10,30
+Individual direct,NA,NA,LTD,15,-5,5,10,30
+Individual direct,NA,NA,ACC,15,-5,5,10,30
+Individual direct,NA,NA,CI,15,-5,5,10,30
